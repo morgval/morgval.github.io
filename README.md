@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/morgval/morgval.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+``` Hello World. 
+My name is...
 ```
+# Morgana Val.
+### I love experimenting!
+As I complete my B.S. in Computer Science, I want to continue to establish my skills as a developer, focusing on cloud and internet technologies. In addition to improving what is already in my portfolio, some topics I hope to explore next are:
+- Angular.js and Typescript
+- C++ (past the fundamentals)
+- React
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+View my [resume](https://www.notion.so/morganaval/Morgana-Val-eb08d6e601924ca2963c59f242514500).
 
-### Jekyll Themes
+## Projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/morgval/morgval.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
