@@ -13,7 +13,7 @@ View my [resume](https://www.notion.so/morganaval/Morgana-Val-eb08d6e601924ca296
 
 ## Code Review
 As apart of the completion of my degree program, I need to select one to three projects that best represent my skills and what I have learned over the course of my two year study.  I unfortunately did not have access to the complete extent of my degree projects (my desktop computer is stored as I am moving) but I chose two projects that showed my ability to work with new technologies and understand the frameworks already establsihed.  This final project also required me to perform a code review before making modifications.
-[![CS499 Code Review](https://photos.app.goo.gl/wU6vZ6bdMkWW73Pt7)](https://www.loom.com/share/58fb4ee2a6bd4f29b211d4e682f31f07?sharedAppSource=personal_library "CS499 Github Pages Portfolio Code Review")
+[![CS499 Code Review](https://drive.google.com/file/d/17WDphzJRZicEV-NAT9tlEMTCrnE6IqsP/view?usp=sharing)](https://www.loom.com/share/58fb4ee2a6bd4f29b211d4e682f31f07?sharedAppSource=personal_library "CS499 Github Pages Portfolio Code Review")
 
 
 ## Projects
