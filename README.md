@@ -25,11 +25,11 @@ mitigate design flaws, and ensure privacy and enhanced security of data and reso
 
 ## Projects
 ### projectOne: Grazioso Salvare Database Dashboard 
-[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" />](python.org)
-[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" />](mongodb.com)
-[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/json.svg" />](https://www.json.org)
-[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/numpy.svg" />](numpy.org)
-[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pandas.svg" />](pandas.pydata.org)
+[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" />](python.org) <br/>
+[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" />](mongodb.com) <br/>
+[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/json.svg" />](https://www.json.org) <br/>
+[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/numpy.svg" />](numpy.org) <br/>
+[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pandas.svg" />](pandas.pydata.org) <br/>
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/plotly.svg" />](plotly.com/dash/)
 <br/>
 [![projectOne Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=morgval&repo=GS-Dashboard)](https://github.com/morgval/GS-Dashboard)
@@ -51,10 +51,10 @@ implementing computer solutions that deliver value and accomplish industry-speci
 Using the technologies linked above, I learned to consider an organization's needs regarding data and how they use data to make decisions. It was one thing when I took my database course and learned about how the RDBMS interacted with the server that held the memory to run the information for the user application, but it was entirely different to actually develop one.  Developing a CRUD module for database management and then a dashboard to filter and present information gave me much more confidence to take on learning new web technologies.  
 
 ### projectTwo: Student Records Web Keeper
-[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />](javascript.com)
-[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bootstrap.svg" />](getbootstrap.com)
-[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jquery.svg" />](jquery.com)
+[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML) <br/>
+[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />](javascript.com) <br/>
+[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bootstrap.svg" />](getbootstrap.com) <br/>
+[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jquery.svg" />](jquery.com) <br/>
 <br/>
 [![projectTwo Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=morgval&repo=Student-Records-Dashboard)](https://github.com/morgval/Student-Records-Dashboard)
 
