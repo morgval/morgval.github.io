@@ -4,10 +4,16 @@ My name is...
 ```
 # Morgana Val.
 ### I love experimenting with new technologies!
+
+[Code Review](#code-review)
+[Projects](#projects)
+[Self Assessment](#self-assessment)
+
 As I complete my B.S. in Computer Science, I want to continue to establish my skills as a developer, focusing on cloud and internet technologies. In addition to improving what is already in my portfolio, some topics I hope to explore next are:
-- Typescript and Angular.js
-- C++ (data structures mainly)
-- React
+- Typescript [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" />](typescriptlang.org) 
+- Angular.js [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/angularjs.svg" />](angularjs.org) 
+- C++ (data structures mainly) [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg" />](https://www.cplusplus.com) 
+- React [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" />](reactjs.org) 
 - Cybersecurity
 
 View my [resume](https://www.notion.so/morganaval/Morgana-Val-eb08d6e601924ca2963c59f242514500).
