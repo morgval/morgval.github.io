@@ -42,7 +42,7 @@ mitigate design flaws, and ensure privacy and enhanced security of data and reso
 
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/plotly.svg" />](plotly.com/dash/)
 
-
+<br/>
 [![projectOne Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=morgval&repo=GS-Dashboard)](https://github.com/morgval/GS-Dashboard)
 
 The GSDB Dashboard project consisted of two parts; there was a program to create, read, update, and delete records from their MongoDB database and that program's test module, and a browser based dashboard to view a datatable that displayed records based off of certain search parameters and a chart and map to sort those records.  I created it during CS340: Advanced Programming Concepts.  However, during this course, CS499, I revised a few algorithms to make the charts more interactive and revised the map feature to work as originally intended, but not executed.  My biggest challenge with this artifact has consistently been that I keep shooting too high. I really wanted this to work properly through Jupyter, but I wasn't able to find a proper tutorial on it until recently, so here is what I still want to polish off:
@@ -63,13 +63,16 @@ Using the technologies linked above, I learned to consider an organization's nee
 
 ### projectTwo: Student Records Web Keeper
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML) 
-<br/>
+
+
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />](javascript.com) 
-<br/>
+
+
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bootstrap.svg" />](getbootstrap.com) 
-<br/>
+
+
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jquery.svg" />](jquery.com) 
-<br/>
+
 <br/>
 [![projectTwo Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=morgval&repo=Student-Records-Dashboard)](https://github.com/morgval/Student-Records-Dashboard)
 
