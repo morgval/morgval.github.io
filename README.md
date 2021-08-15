@@ -5,13 +5,17 @@ My name is...
 # Morgana Val.
 ### I love experimenting with new technologies!
 
-[Code Review](#code-review) | [Projects](#projects) | [Self Assessment](#self-assessment)
+[Self Assessment](#self-assessment) | [Code Review](#code-review) | [Projects](#projects) 
+
+## Self Assessment
+
+
 
 As I complete my B.S. in Computer Science, I want to continue to establish my skills as a developer, focusing on cloud and internet technologies. In addition to improving what is already in my portfolio, some topics I hope to explore next are:
-- Typescript [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" />](typescriptlang.org) 
-- Angular.js [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/angularjs.svg" />](angularjs.org) 
-- C++ (data structures mainly) [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg" />](https://www.cplusplus.com) 
-- React [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" />](reactjs.org) 
+- Typescript [<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" />](typescriptlang.org) 
+- Angular.js [<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/angularjs.svg" />](angularjs.org) 
+- C++ (data structures mainly) [<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg" />](https://www.cplusplus.com) 
+- React [<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" />](reactjs.org) 
 - Cybersecurity
 
 View my [resume](https://www.notion.so/morganaval/Morgana-Val-eb08d6e601924ca2963c59f242514500).
@@ -91,7 +95,7 @@ The Student Records project helped me solidify my understanding in the same thre
        if (gpa < 3.0 && numClasses >= 3) {
            return (alert('Cannot register student.  GPA requirement not met.'))
        } else {
-           //placing class data in student table
+           //placing class row data in the student's class roster table
 ```
 
 This project began in IT315: Object Oriented Analysis, where we used the Agile development lifecycle to plan the use cases prior to development.  These use cases then became the basis for testing the development. I wanted to implement classes to represent the objects in this project but was unable to get the project to function properly.  I was disappointed I wasn't able to accomplish all I had originally thought because of the unexpected bugs I hit, but I learned a lot about problem solving and am now very excited to call this my MVP (minimum viable product).  It has the basic features, and it works but it has bugs and lots of room for improvement as I progress as a programmer.  I would also like to look into:
@@ -100,7 +104,3 @@ This project began in IT315: Object Oriented Analysis, where we used the Agile d
 - [ ] optimiziing the compilation time
 - [ ] adding a Student Roster setting in the Class table
 - [ ] expanding Date() capabilities
-
-## Self Assessment
-
-
