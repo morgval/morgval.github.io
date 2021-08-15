@@ -31,6 +31,7 @@ mitigate design flaws, and ensure privacy and enhanced security of data and reso
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/numpy.svg" />](numpy.org)
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pandas.svg" />](pandas.pydata.org)
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/plotly.svg" />](plotly.com/dash/)
+<br/>
 [![projectOne Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=morgval&repo=GS-Dashboard)](https://github.com/morgval/GS-Dashboard)
 
 The GSDB Dashboard project consisted of two parts; there was a program to create, read, update, and delete records from their MongoDB database and that program's test module, and a browser based dashboard to view a datatable that displayed records based off of certain search parameters and a chart and map to sort those records.  I created it during CS340: Advanced Programming Concepts.  However, during this course, CS499, I revised a few algorithms to make the charts more interactive and revised the map feature to work as originally intended, but not executed.  My biggest challenge with this artifact has consistently been that I keep shooting too high. I really wanted this to work properly through Jupyter, but I wasn't able to find a proper tutorial on it until recently, so here is what I still want to polish off:
@@ -54,6 +55,7 @@ Using the technologies linked above, I learned to consider an organization's nee
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />](javascript.com)
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bootstrap.svg" />](getbootstrap.com)
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jquery.svg" />](jquery.com)
+<br/>
 [![projectTwo Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=morgval&repo=Student-Records-Dashboard)](https://github.com/morgval/Student-Records-Dashboard)
 
 The Student Records project helped me solidify my understanding in the same three course outcomes as the GS-Dashboard. Basically, the program keeps student and class records to register students to courses.  During this course, I implemented a few different algorithms into a Javascript CRUD tutorial I found on YouTube to expanded the functionality of the tables.  I was able to make it so a student could be registered to a course; the user would selected the course, click register, enter the Student ID, click register again and could return to the student tab to see the student record's class roster populated.  I also implemented the following algorithm to restrict students with a GPA too low to only be able to register to 3 classes:
