@@ -16,7 +16,7 @@ View my [resume](https://www.notion.so/morganaval/Morgana-Val-eb08d6e601924ca296
 As apart of the completion of my degree program, I needed to select one to three projects that best represent my skills and proved I have learned the core computer science concepts over the past two years.  I unfortunately did not have access to the complete extent of my degree projects (my desktop computer is stored as I am moving) but I chose two projects that showed my ability to work with new technologies and understand the frameworks already establsihed.  This final project also required me to perform a code review before making modifications.  There were five course outcomes I had to prove my knowledge of the computer science field, and the code review fulfills the second and fifth:
 
 > {CS-499-02} Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound,
-and appropriately adapted to specific audiences and contexts 
+and appropriately adapted to specific audiences and contexts <br/>
 > {CS-499-05} Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities,
 mitigate design flaws, and ensure privacy and enhanced security of data and resources 
 
@@ -42,9 +42,9 @@ The GSDB Dashboard project consisted of two parts; there was a program to create
 This project helped me fulfill three course outcomes:
 
 > {CS-499-01} Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision
-making in the field of computer science 
+making in the field of computer science <br/>
 > {CS-499-03} Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and
-standards appropriate to its solution, while managing the trade-offs involved in design choices (data structures and algorithms) 
+standards appropriate to its solution, while managing the trade-offs involved in design choices (data structures and algorithms) <br/>
 > {CS-499-04} Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of
 implementing computer solutions that deliver value and accomplish industry-specific goals (software engineering/design/database) 
 
