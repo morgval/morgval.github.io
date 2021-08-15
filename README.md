@@ -34,20 +34,15 @@ mitigate design flaws, and ensure privacy and enhanced security of data and reso
 ## Projects
 ### projectOne: Grazioso Salvare Database Dashboard 
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" />](python.org) 
-
-
+|
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" />](mongodb.com) 
-
-
+|
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/json.svg" />](https://www.json.org) 
-
-
+|
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/numpy.svg" />](numpy.org) 
-
-
+|
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pandas.svg" />](pandas.pydata.org) 
-
-
+|
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/plotly.svg" />](plotly.com/dash/)<br/>   
 
 
@@ -71,14 +66,11 @@ Using the technologies linked above, I learned to consider an organization's nee
 
 ### projectTwo: Student Records Web Keeper
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML) 
-
-
+|
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />](javascript.com) 
-
-
+|
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bootstrap.svg" />](getbootstrap.com) 
-
-
+|
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jquery.svg" />](jquery.com)<br/>   
 
 
