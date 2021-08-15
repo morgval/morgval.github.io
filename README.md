@@ -5,8 +5,8 @@ My name is...
 # Morgana Val.
 ### I love experimenting with new technologies!
 
-[Code Review](#code-review)
-[Projects](#projects)
+[Code Review](#code-review)<br/>   
+[Projects](#projects)<br/>   
 [Self Assessment](#self-assessment)
 
 As I complete my B.S. in Computer Science, I want to continue to establish my skills as a developer, focusing on cloud and internet technologies. In addition to improving what is already in my portfolio, some topics I hope to explore next are:
