@@ -1,15 +1,15 @@
 ```
-Hello World. 
+Hello World.
 My name is...
 ```
 # Morgana Val.
 ### I love experimenting with new technologies!
 
-[Self Assessment](#self-assessment) | [Code Review](#code-review) | [Projects](#projects) 
+[Self Assessment](#self-assessment) | [Code Review](#code-review) | [Projects](#projects)
 
 ## Self Assessment
 
-Two months ago, it finally dawned on me, "I am really finishing my computer science degree." I did doubt myself for a while that I could ever prove to be a programmer, but I was also shooting too high for having just come into this a little over two years ago.  I had dreams of working with artificial intelligence and cybersecurity, when I barely knew how the internet worked.  The Computer Science program taught me that we all must have humble beginnings. There are a few main skills I have acquired during my time that pertain to the tech industry:
+In June of 2021, it finally dawned on me, "I am really finishing my computer science degree." I did doubt myself for a while that I could ever prove to be a programmer, but I was also shooting too high for having just come into this a little over two years ago.  I had dreams of working with artificial intelligence and cybersecurity, when I barely knew how the internet worked.  The Computer Science program taught me that we all must have humble beginnings. There are a few main skills I have acquired during my time that pertain to the tech industry:
 
 ### Collaborating and Communicating with a team and stakeholders
 Much of my coursework required reading, understanding, and participating in mock Agile events to understand the software development lifecycle.  I learned the different types of documentation and presentation methods to use when relaying information to stakeholders.  Version control technologies like GitHub are important for collaborating with team members so work is not overwritten, and feature releases can be tracked appropriately.  The [student records project](#projecttwo) and the documentation I go over in the [code review](#code-review) are the best representations of this skill in my portfolio.
@@ -29,14 +29,14 @@ As a part of the completion of my degree program, I needed to select one to thre
 > {CS-499-02} Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound,
 and appropriately adapted to specific audiences and contexts <br/>
 > {CS-499-05} Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities,
-mitigate design flaws, and ensure privacy and enhanced security of data and resources 
+mitigate design flaws, and ensure privacy and enhanced security of data and resources
 
 [![CS499 Code Review](Portfolio Code Review Thumbnail.png)](https://www.loom.com/share/58fb4ee2a6bd4f29b211d4e682f31f07?sharedAppSource=personal_library "CS499 Github Pages Portfolio Code Review")
 
 
 ## Projects
 ### projectOne
-[<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" />](https://www.python.org)  [<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" />](https://www.mongodb.com)  [<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/json.svg" />](https://www.json.org/)  [<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/numpy.svg" />](https://numpy.org/) 
+[<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" />](https://www.python.org)  [<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" />](https://www.mongodb.com)  [<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/json.svg" />](https://www.json.org/)  [<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/numpy.svg" />](https://numpy.org/)
  [<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pandas.svg" />](https://pandas.pydata.org/)  [<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/plotly.svg" />](https://plotly.com/dash/)<br/>   
 
 
@@ -54,7 +54,7 @@ making in the field of computer science <br/>
 > {CS-499-03} Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and
 standards appropriate to its solution, while managing the trade-offs involved in design choices (data structures and algorithms) <br/>
 > {CS-499-04} Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of
-implementing computer solutions that deliver value and accomplish industry-specific goals (software engineering/design/database) 
+implementing computer solutions that deliver value and accomplish industry-specific goals (software engineering/design/database)
 
 Using the technologies linked above, I learned to consider an organization's needs regarding data and how they use data to make decisions. It was one thing when I took my database course and learned about how the RDBMS interacted with the server that held the memory to run the information for the user application, but it was entirely different to actually develop one.  Developing a CRUD module for database management and then a dashboard to filter and present information gave me much more confidence to take on learning new web technologies.  In addition, I learned about RestAPI, the software architectural style that has come to define much of the internet today.  As I delve deeper into databases and cloud technologies, I have a feeling this introduction to the concept will come in handy.  I became familiar with the JSON as well and would like to create a version of the next project that runs to manipulate JSON objects, not just DOM elements.
 
